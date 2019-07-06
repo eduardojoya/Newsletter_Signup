@@ -1,2 +1,2 @@
 # Newsletter_Signup
-Newsletter Signup app created with node and expess 
+Newsletter Sign-up app created with node and expess 
